@@ -1,4 +1,38 @@
-SIMULTANEOUS LOCALIZATION AND MAPPING OF A ROBOT (TURTLE BURGER) : 
+__🗺️ Simultaneous Localization and Mapping (SLAM) – TurtleBot Simulation__
 
-This is a simulation based on simultaneous localization and mapping, also known as SLAM. The instructions on how to run the files and perform the slam is detailed along with the video.
-The kat.zip contains the environment created from Gazebo.
+This repository contains a simulation project demonstrating Simultaneous Localization and Mapping (SLAM) using the TurtleBot (Turtle Burger) robot in a custom Gazebo environment.
+The robot performs real-time mapping and localization inside the simulated world, showcasing how SLAM enables autonomous navigation in an unknown environment.
+
+
+**📂 Project Contents**
+
+kat.zip – Custom Gazebo environment
+
+SLAM launch and configuration files
+
+Video demonstration with step-by-step instructions
+
+Scripts and assets required to run the simulation
+
+
+**🚀 How to Run**
+
+Instructions for launching the simulation and executing SLAM are included in the repository along with a demo video.
+
+
+**📝 Notes**
+
+This is a simulation-based SLAM project.
+
+The work was done in collaboration with two teammates. I am not claiming sole ownership of the project.
+
+
+**🤖 Tech Stack**
+
+ROS / ROS2
+
+Gazebo
+
+TurtleBot
+
+SLAM tools (e.g., SLAM Toolbox / Cartographer)
